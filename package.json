@@ -1,8 +1,8 @@
 {
-  "name": "react-temp",
-  "version": "0.1.0",
+  "name": "Todo-v1.1",
+  "version": "1.1.0",
   "private": true,
-  "homepage": "http://andreaxiang.github.io/react-temp/build",
+  "homepage": "https://andreaxiang.github.io/Todo-react-v1.1/build",
   "dependencies": {
     "normalize.css": "^7.0.0",
     "react": "^15.6.1",
@@ -14,5 +14,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack": "^3.1.0"
   }
 }
